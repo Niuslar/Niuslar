@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Niuslar
-- I'm currently learning how to program microcontrollers (Arduino, ESP8266, STM32). 
-I would like to make my own Internet of Things devices powered with solar cells. 
+I am an Industrial Civil Engineer with an MSc in Sustainable Energy Systems. 
+I am passionate about Embedded Systems and I spend most of my time learning about them. 
+If you have any questions regarding one of my projects or would like to collaborate, please send me an email to: uslarnicolas@gmail.com
